@@ -1,0 +1,1 @@
+This is just a baby step in the spotify-downloader world. I've split the code into two independent threads—one that parses the real URL and the other that swoops in to finish the download. But beware! This approach might summon the SSL errors due to overenthusiastic usage. IP pooling could be our knight in shining armor, but alas, I don't have one in my arsenal just yet!
